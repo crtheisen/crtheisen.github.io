@@ -14,12 +14,12 @@ body {
   }
   
   a {
-    color: lightslategray;
+    color: rgb(200, 200, 200);
     text-decoration: bold;
   }
   
   a:hover {
-    color: lightslategray;
+    color: rgb(200, 200, 200);
     text-decoration: bold underline;
   }
   
