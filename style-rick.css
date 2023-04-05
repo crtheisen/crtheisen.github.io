@@ -15,11 +15,12 @@ body {
   
   a {
     color: rgb(200, 200, 200);
-    text-decoration: bold;
+    font-weight: bold;
+    text-decoration: none;
   }
   
   a:hover {
     color: rgb(200, 200, 200);
-    text-decoration: bold underline;
+    font-weight: bold;
+    text-decoration: underline;
   }
-  
