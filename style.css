@@ -13,11 +13,12 @@ body {
   }
   
   a {
-    color: white;
+    color: lightblue;
     text-decoration: none;
   }
   
   a:hover {
+    color: lightblue;
     text-decoration: underline;
   }
   
